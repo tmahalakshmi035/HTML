@@ -52,3 +52,64 @@ h6 {
    line-height: 28px;
 }
 
+.text-pc {
+   color: #223354;
+}
+
+.text-sc {
+   color:#1ab4d7
+}
+
+.c-info {
+   color:#b0a0fd;
+}
+
+.c-success {
+    color:#27ae60;
+}
+
+.c-warning {
+    color: #e2b93b;
+}
+
+.c-error {
+    color: #eb5757;
+}
+
+.c-b1 {
+   color: #000000;
+}
+
+.c-b2 {
+   color:#1d1d1d ;
+}
+
+.c-b3 {
+    color: #282828;
+}
+
+.c-white {
+   color:#ffffff;
+}
+
+.c-g1 {
+    color:#333333;
+}
+
+.c-g2 {
+    color:#4f4f4f;
+}
+
+.c-g3 {
+    color:#828282;
+}
+
+.c-g4 {
+    color:#bdbdbd;
+}
+
+.c-g5 {
+    color:#e0e0e0;
+}
+
+ 
